@@ -1,0 +1,12 @@
+ROLLNO.		NAME		ATTN		PHY		CHE		MATH		ENG		CS		TOTAL		PER		GRADE		
+102		naresh.m			78.60		96		89		97		91		99		472		94.40		O
+123		pranay.s			82.00		80		80		87		81		84		412		82.40		A
+115		narendra.h			72.40		86		87		81		79		85		418		83.60		A
+109		rajashekar.k			86.80		99		99		99		99		99		495		99.00		O
+103		keravani.l			76.20		39		39		39		39		39		195		39.00		E
+105		bhargav.j			69.90		75		75		75		75		75		375		75.00		B
+106		venkadhri.k			84.00		84		84		84		84		84		420		84.00		A
+112		raghav.h			70.74		36		36		36		36		36		180		36.00		E
+114		ravikiran.s			83.30		76		77		78		79		80		390		78.00		B
+113		ramanujan.c			58.80		75		75		75		75		75		375		75.00		B
+111		karthikeya.t			70.00		81		52		78		72		53		336		67.20		C

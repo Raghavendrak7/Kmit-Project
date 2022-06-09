@@ -1,0 +1,4 @@
+ROLLNO.		NAME		ATTN		PHY		CHE		MATH		ENG		CS		TOTAL		PER		GRADE		
+302		naresh.k			58.80		96		95		97		91		99		478		95.60		O
+304		pallavi.k			79.50		84		82		79		87		88		420		84.00		A
+323		pranay.m			82.30		82		79		84		79		82		406		81.20		A
